@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, TypeScript, React, Python, C++, Java.
+- 🌱 I’m currently learning JavaScript, TypeScript, React, Angular, Nextjs, Python, C++, Java.
 
 ## About me 👦🏻
 
