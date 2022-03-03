@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript, TypeScript, React, Python, C++, Java.
+
 ## About me 👦🏻
 
 <div>
