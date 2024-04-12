@@ -19,7 +19,7 @@
   
    <img height="180em" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gregorylira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gregorylira&theme=monokai"/>
    <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregorylira&layout=compact&langs_count=7&theme=monokai "/>
+
   
   
   ##                                                                                                                                          
